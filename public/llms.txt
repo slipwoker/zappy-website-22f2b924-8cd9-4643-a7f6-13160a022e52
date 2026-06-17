@@ -1,0 +1,100 @@
+# סער — Generative Engine Optimization Map
+
+> תבנה לי אתר
+
+---
+
+## Pages
+
+### בית
+https://-22f2b924.zappy5.app
+הופכים רעיון למציאות דיגיטלית עם סער. פתרונות לעסקים קטנים בישראל, כלים לניהול סטארטאפ טכנולוגי וליווי צמוד. תתחיל לבנות את האתר שלך עוד היום.
+
+### שירותים
+https://-22f2b924.zappy5.app/services
+מארגז כלים דיגיטלי ועד ניהול סטארטאפ טכנולוגי – השירותים של סער נותנים לך כוח לגדול. פתרונות לעסקים קטנים בישראל שמביאים תוצאות. בדוק איך אנחנו מזיזים עסקים קדימה.
+
+### אודות
+https://-22f2b924.zappy5.app/about
+הסיפור של סער מתחיל בתשוקה לבנות עסקים חזקים. אנחנו מביאים פתרונות לעסקים קטנים בישראל עם ניסיון, יצירתיות וראייה טכנולוגית. בוא לגלות מי מניע את ההצלחה שלך.
+
+### צור קשר
+https://-22f2b924.zappy5.app/contact
+אל תישאר מאחור – צור קשר עם סער עוד היום. בין אם אתה צריך כלים לניהול סטארטאפ טכנולוגי או פתרונות לעסקים קטנים בישראל, אנחנו כאן כדי להקשיב ולבנות. שלח הודעה ונתחיל.
+
+### Products
+https://-22f2b924.zappy5.app/products
+המוצרים שלנו - סער
+
+### Cart
+https://-22f2b924.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-22f2b924.zappy5.app/checkout
+תשלום
+
+### Login
+https://-22f2b924.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-22f2b924.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-22f2b924.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-22f2b924.zappy5.app/product/:slug
+פרטי המוצר - סער
+
+### Category
+https://-22f2b924.zappy5.app/category/:slug
+מוצרים - סער
+
+## Legal & Policy
+
+### Privacy Policy
+https://-22f2b924.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-22f2b924.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-22f2b924.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סער
+תבנה לי אתר
+
+## Target Audience
+- בעלי סטארטאפים טכנולוגיים
+- בעלי עסקים קטנים
+- עובדים מרחוק
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-22f2b924.zappy5.app/sitemap.xml
+- Robots: https://-22f2b924.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-22f2b924.zappy5.app/llms-full.txt
+- Products (JSON): https://-22f2b924.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-22f2b924.zappy5.app/product-feed.xml
